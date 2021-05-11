@@ -9,6 +9,8 @@ var player;
 var bgIMG
 var bg;
 var ground1;
+var engine;
+var world;
 function preload()
 {
 	playerIMG = loadImage("player2.gif");
